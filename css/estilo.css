@@ -1,0 +1,77 @@
+body{
+    background-color: azure;
+}
+
+header{
+        padding:0.5em;
+        color: bisque;
+        background-color: darkblue;
+        clear:left;
+    
+}
+
+nav {
+	class: "navbar navbar-expand-lg navbar-light bg-light";
+}
+
+a{
+    font:  menu;
+    font-size: 20px;
+
+}
+
+
+h1{
+    font-family : didot;
+    
+    font-size: 33px;
+}
+
+h2{
+    font-family: didot;
+    font-size: 20px;
+    color: rgb(41, 3, 33);
+
+}
+
+table{
+    background-color: darkblue;
+    align-items: center;
+    border: 10px;
+    border-color: bisque;
+    text-align: center;
+}
+td{
+    color: bisque;
+}
+
+th{
+    color: bisque;
+    
+}
+meter {
+    --background: #dadada;
+    --optimum: rgb(8, 187, 8);
+    --sub-optimum: gold;
+    --sub-sub-optimum: crimson;
+  
+    /* The gray background in Firefox */
+    background: var(--background);
+    display: block;
+    margin-bottom: 1em;
+    width: 100px;
+  }
+
+  i{
+      color: rgb(255, 255, 255);
+  }
+
+  #contacto{
+    font-size:60px;
+    color: rgb(246, 117, 41);
+  }
+
+  #contacto2{
+    font-size:20px;
+    color: rgb(251, 5, 5);
+  }
